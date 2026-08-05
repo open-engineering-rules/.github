@@ -2,6 +2,9 @@
 
 Reusable engineering rules for humans, AI agents, and automated engineering platforms.
 
+![Open Engineering Rules hero-banner](../assets/hero-banner.png)
+
+
 Open Engineering Rules is the home of reusable engineering rules that describe how engineering should be performed.
 
 Rules complement Open Engineering Conventions by expressing guidance, policies, validation logic, best practices, architectural principles, and quality requirements that can be consumed by both humans and machines.
